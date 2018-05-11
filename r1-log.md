@@ -9,5 +9,8 @@ Setup this git reop and [Lore of Legends repo](https://github.com/pierrekarpov/L
 Tested riot api
 TODO: put api key in headers so it won't be visible
 
-### R1D1 May 10 2018
-Get Summoner's match history based on a champion name. Project: [Lore of Legends repo](https://github.com/pierrekarpov/LoreOfLegends)
+### R1D2 May 10 2018
+Get Summoner's match history based on a champion name. Project: [Lore of Legends](https://github.com/pierrekarpov/LoreOfLegends)
+
+### R1D3 May 11 2018
+Exploring match history API. Project: [Lore of Legends repo](https://github.com/pierrekarpov/LoreOfLegends)
