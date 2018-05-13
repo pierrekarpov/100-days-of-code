@@ -13,4 +13,11 @@ TODO: put api key in headers so it won't be visible
 Get Summoner's match history based on a champion name. Project: [Lore of Legends](https://github.com/pierrekarpov/LoreOfLegends)
 
 ### R1D3 May 11 2018
-Exploring match history API. Project: [Lore of Legends repo](https://github.com/pierrekarpov/LoreOfLegends)
+Exploring match history API. Project: [Lore of Legends](https://github.com/pierrekarpov/LoreOfLegends)
+
+### R1D4 May 12 2018
+Only did a little bit of reading, will work two hours tomorrow (schedule during weekends will most likely be flexible).
+
+### R1D5 May 13 2018
+Started [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/). Setup enviroment: php, artisan, laravel, composer, valet, mysql.
+Project not pushed to GitHub as of now, will need to reshuffle [Lore of Legends repo](https://github.com/pierrekarpov/LoreOfLegends)
