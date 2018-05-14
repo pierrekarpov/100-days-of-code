@@ -21,3 +21,7 @@ Only did a little bit of reading, will work two hours tomorrow (schedule during 
 ### R1D5 May 13 2018
 Started [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/). Setup enviroment: php, artisan, laravel, composer, valet, mysql.
 Project not pushed to GitHub as of now, will need to reshuffle [Lore of Legends repo](https://github.com/pierrekarpov/LoreOfLegends)
+
+### R1D6 May 14 2018
+Kept on workin on  [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/).
+Learnt about migration, models, controllers, and route model binding.
