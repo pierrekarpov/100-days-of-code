@@ -25,3 +25,8 @@ Project not pushed to GitHub as of now, will need to reshuffle [Lore of Legends 
 ### R1D6 May 14 2018
 Kept on workin on  [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/).
 Learnt about migration, models, controllers, and route model binding.
+
+
+### R1D7 May 15 2018
+Kept on workin on  [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/).
+Learnt about RESTful convention, submitting forms, and blade layout engine
