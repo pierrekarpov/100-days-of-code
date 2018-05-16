@@ -30,3 +30,7 @@ Learnt about migration, models, controllers, and route model binding.
 ### R1D7 May 15 2018
 Kept on workin on  [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/).
 Learnt about RESTful convention, submitting forms, and blade layout engine
+
+### R1D8 May 16 2018
+[Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/).
+Learnt more about REST functions. Learnt about model relationships, integration of js and sass files with npm watch
