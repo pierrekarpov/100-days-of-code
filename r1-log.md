@@ -34,3 +34,9 @@ Learnt about RESTful convention, submitting forms, and blade layout engine
 ### R1D8 May 16 2018
 [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/).
 Learnt more about REST functions. Learnt about model relationships, integration of js and sass files with npm watch
+
+### R1D9 May 17 2018
+Fixed emmet bug preventing the use of the tab functionality
+[Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/).
+Fixed css which wasn't coming anymore
+Learnt how to add comments to posts using eloquant relationships.
