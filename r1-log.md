@@ -44,3 +44,7 @@ Learnt how to add comments to posts using eloquant relationships.
 ### R1D10 May 18 2018
 [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/)
 User authentification, and database complex querying
+
+### R1D11 May 19 2018
+[Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/)
+User authentification, and database complex querying. Part 2
