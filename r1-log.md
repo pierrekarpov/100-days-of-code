@@ -56,3 +56,8 @@ Finally done with user authentification, and database complex querying.
 ### R1D13 May 21 2018
 [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/)
 Archive sidebar
+
+
+### R1D13 May 22 2018
+[Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/)
+Archive sidebar available globaly (yesterday the internet shut down)
