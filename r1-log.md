@@ -65,3 +65,7 @@ Archive sidebar available globaly (yesterday the internet shut down)
 ### R1D15 May 23 2018
 [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/)
 Unit testing
+
+### R1D16 May 24 2018
+[Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/)
+Injection, beginning of service provider
