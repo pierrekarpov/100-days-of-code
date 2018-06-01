@@ -10,10 +10,15 @@ I will be working of a few personal projects, and try to use different framework
 
 ## Contents
 
-* [Log - click here to see my progress](r1-log.md)
+* [Log - click here to see my progress](r2-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 * [Rules](rules.md)
+
+## Rounds
+
+* [Round 1 (May 9 2018 - May 24 2018)](r1-log.md)
+* [Round 2 (June 1 2018 - ongoing)](r2-log.md)
 
 ## Translations
 [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [русский](intl/ru/README-ru.md) – [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md)
