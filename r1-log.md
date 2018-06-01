@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Pierre Karpov
 
-The log of my #100DaysOfCode challenge. Started on [May 9, Wednesday, 2018].
+The log of my #100DaysOfCode challenge. Started on May 9, Wednesday, 2018.
 
 ## Log
 
@@ -72,4 +72,4 @@ Injection, beginning of service provider
 
 
 ### Streak broken
-Went visiting my family. Time to start round 2!
+Went visiting my family and had a lot of things to do. Time to start round 2!
