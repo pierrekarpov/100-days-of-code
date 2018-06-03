@@ -15,3 +15,8 @@ Service Provider to setup singleton for instance. Setting up mail engine and usi
 [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/):
 
 Form Request Object
+
+### R2D3 [June 3, Sunday 2018]
+[Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/):
+
+Session Handling and Flash Messaging
