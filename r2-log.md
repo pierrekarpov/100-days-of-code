@@ -20,3 +20,8 @@ Form Request Object
 [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/):
 
 Session Handling and Flash Messaging
+
+### R2D4 [June 4, Monday 2018]
+[Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/):
+
+Adding tags to posts: pivot tables
