@@ -25,3 +25,8 @@ Session Handling and Flash Messaging
 [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/):
 
 Adding tags to posts: pivot tables
+
+### R2D5 [June 5, Monday 2018]
+Events and Listeners
+
+Done with [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/)
