@@ -8,6 +8,10 @@ I will be working of a few personal projects, and try to use different framework
 * [RESTful Data Science](https://github.com/pierrekarpov/RestfulDataScience)
 * [Lore Of Legends](https://github.com/pierrekarpov/LoreOfLegends)
 
+## Tutorial list
+
+* [Laravel](https://laracasts.com/series/laravel-from-scratch-2017/)
+
 ## Contents
 
 * [Log - click here to see my progress](r2-log.md)

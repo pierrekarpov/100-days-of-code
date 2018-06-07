@@ -26,7 +26,14 @@ Session Handling and Flash Messaging
 
 Adding tags to posts: pivot tables
 
-### R2D5 [June 5, Monday 2018]
+### R2D5 [June 5, Tuesday 2018]
 Events and Listeners
 
 Done with [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2017/)
+
+### R2D6 [June 6, Wednesday 2018]
+[RestfulDataScience](https://github.com/pierrekarpov/RestfulDataScience)
+
+Refamiliarize with the code
+
+Clean and sort input when requesting a prediction
