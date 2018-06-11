@@ -11,6 +11,8 @@ I will be working of a few personal projects, and try to use different framework
 ## Tutorial list
 
 * [Laravel](https://laracasts.com/series/laravel-from-scratch-2017/)
+* [RoR](https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f)
+* [LSTM](https://www.datacamp.com/community/tutorials/lstm-python-stock-market?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more#lstm)
 
 ## Contents
 

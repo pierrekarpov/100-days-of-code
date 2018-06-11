@@ -37,3 +37,18 @@ Done with [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2
 Refamiliarize with the code
 
 Clean and sort input when requesting a prediction
+
+### R2D7 [June 7, Thursday 2018]
+[RoR Tutorial](https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f)
+
+### R2D8 [June 8, Friday 2018]
+[RoR Tutorial](https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f)
+
+### R2D9 [June 9, Saturday 2018]
+[RoR Tutorial](https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f)
+
+### R2D10 [June 10, Sunday 2018]
+[RoR Tutorial](https://www.datacamp.com/community/tutorials/lstm-python-stock-market?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more#lstm)
+
+### R2D11 [June 11, Monday 2018]
+[RoR Tutorial](https://www.datacamp.com/community/tutorials/lstm-python-stock-market?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more#lstm)
