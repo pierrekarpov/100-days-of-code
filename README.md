@@ -7,6 +7,7 @@ I will be working of a few personal projects, and try to use different framework
 
 * [RESTful Data Science](https://github.com/pierrekarpov/RestfulDataScience)
 * [Lore Of Legends](https://github.com/pierrekarpov/LoreOfLegends)
+* [5positives](http://5positives.com/)
 
 ## Tutorial list
 
@@ -24,7 +25,8 @@ I will be working of a few personal projects, and try to use different framework
 ## Rounds
 
 * [Round 1 (May 9 2018 - May 24 2018)](r1-log.md)
-* [Round 2 (June 1 2018 - ongoing)](r2-log.md)
+* [Round 2 (June 1 2018 - Jun 12 2018)](r2-log.md)
+* [Round 3 (June 18 2018 - ongoing)](r3-log.md)
 
 ## Translations
 [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [русский](intl/ru/README-ru.md) – [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md)
