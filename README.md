@@ -14,6 +14,8 @@ I will be working of a few personal projects, and try to use different framework
 * [Laravel](https://laracasts.com/series/laravel-from-scratch-2017/)
 * [RoR](https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f)
 * [LSTM](https://www.datacamp.com/community/tutorials/lstm-python-stock-market?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more#lstm)
+* [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+* [AWS](https://www.aws.training/learningobject/curriculum?id=16357)
 
 ## Contents
 

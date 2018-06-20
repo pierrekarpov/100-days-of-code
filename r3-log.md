@@ -15,3 +15,10 @@ Brainstorming for 5positives, draft some aspect of the UI
 Brainstorming for 5positives, draft some aspect of the UI. Decided to go for Native iOS instead of React Native
 
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+### R2D3 [June 20, Wednesday 2018]
+5positives: fleshed out the basic UI.
+
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+[AWS](https://www.aws.training/learningobject/curriculum?id=16357)
