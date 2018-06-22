@@ -22,3 +22,6 @@ Brainstorming for 5positives, draft some aspect of the UI. Decided to go for Nat
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 [AWS](https://www.aws.training/learningobject/curriculum?id=16357)
+
+### R2D3 [June 21, Thursday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
