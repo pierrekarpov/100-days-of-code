@@ -23,5 +23,10 @@ Brainstorming for 5positives, draft some aspect of the UI. Decided to go for Nat
 
 [AWS](https://www.aws.training/learningobject/curriculum?id=16357)
 
-### R2D3 [June 21, Thursday 2018]
+### R2D4 [June 21, Thursday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+
+### R2D5 [June 22, Friday 2018]
+5positives: By day TableView fleshed out and connected to controller
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
