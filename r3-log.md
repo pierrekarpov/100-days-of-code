@@ -30,3 +30,9 @@ Brainstorming for 5positives, draft some aspect of the UI. Decided to go for Nat
 ### R2D5 [June 22, Friday 2018]
 5positives: By day TableView fleshed out and connected to controller
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+### R2D6 [June 23, Saturday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+### R2D7 [June 24, Sunday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
