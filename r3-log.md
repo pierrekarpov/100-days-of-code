@@ -42,3 +42,8 @@ Brainstorming for 5positives, draft some aspect of the UI. Decided to go for Nat
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 5positives: add and remove positive, save data on the phone
+
+### R2D9 [June 26, Tuesday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+5positives: better data storage, swipe left and right to see previous/next day
