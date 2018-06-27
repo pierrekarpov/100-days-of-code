@@ -7,12 +7,12 @@ The log of my #100DaysOfCode challenge. Started on June 18, Monday, 2018.
 ### R2D1 [June 18, Monday 2018]
 Docs for R3
 
-Brainstorming for 5positives, draft some aspect of the UI
+5positives: brainstorming, draft some aspect of the UI
 
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 ### R2D2 [June 19, Tuesday 2018]
-Brainstorming for 5positives, draft some aspect of the UI. Decided to go for Native iOS instead of React Native
+5positives: brainstorming draft some aspect of the UI. Decided to go for Native iOS instead of React Native
 
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 
@@ -47,3 +47,8 @@ Brainstorming for 5positives, draft some aspect of the UI. Decided to go for Nat
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 5positives: better data storage, swipe left and right to see previous/next day
+
+### R2D10 [June 27, Wednesday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+5positives: responsive and rescalable UI, buttons to see previous/next day
