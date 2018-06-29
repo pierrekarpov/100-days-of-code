@@ -52,3 +52,11 @@ Docs for R3
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 5positives: responsive and rescalable UI, buttons to see previous/next day
+
+### R2D11 [June 28, Thursday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+[Hapi, GraphQL, Swagger article](https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac)
+
+### R2D11 [June 28, Thursday 2018]
+5positives: tried to have a nice collection view controller to change between date screens
