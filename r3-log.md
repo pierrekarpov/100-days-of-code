@@ -58,5 +58,14 @@ Docs for R3
 
 [Hapi, GraphQL, Swagger article](https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac)
 
-### R2D11 [June 28, Thursday 2018]
+### R2D12 [June 28, Thursday 2018]
 5positives: tried to have a nice collection view controller to change between date screens
+
+### R2D13 [June 29, Friday 2018]
+5positives: collection view controller tutorials
+
+### R2D14 [June 20, Saturday 2018]
+5positives: collection view controller tutorials
+
+### R2D15 [June 30, Sunday 2018]
+5positives: collection view controller done, adding UI to swipable view controller
