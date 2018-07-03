@@ -64,8 +64,12 @@ Docs for R3
 ### R2D13 [June 29, Friday 2018]
 5positives: collection view controller tutorials
 
-### R2D14 [June 20, Saturday 2018]
+### R2D14 [June 30, Saturday 2018]
 5positives: collection view controller tutorials
 
-### R2D15 [June 30, Sunday 2018]
+### R2D15 [July 1, Sunday 2018]
 5positives: collection view controller done, adding UI to swipable view controller
+
+### R2D16 [July 2, Monday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+Done with week 2
