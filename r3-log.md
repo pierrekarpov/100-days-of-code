@@ -73,3 +73,8 @@ Docs for R3
 ### R2D16 [July 2, Monday 2018]
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 Done with week 2
+
+### R2D17 [July 3, Tuesday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+5positives: added table views to collection view cells
