@@ -78,3 +78,11 @@ Done with week 2
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 5positives: added table views to collection view cells
+
+### R2D18 [July 4, Wednesday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+5positives: new UI connected to user defaults
+
+### R2D19 [July 3, Thursday 2018]
+5positives: data persistancy, (unsuccessfully) tried to add custom tap gesture to text fields. Probably need to add code to cell level, and communicate back through delegates.
