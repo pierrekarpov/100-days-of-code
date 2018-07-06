@@ -84,5 +84,8 @@ Done with week 2
 
 5positives: new UI connected to user defaults
 
-### R2D19 [July 3, Thursday 2018]
+### R2D19 [July 5, Thursday 2018]
 5positives: data persistancy, (unsuccessfully) tried to add custom tap gesture to text fields. Probably need to add code to cell level, and communicate back through delegates.
+
+### R2D20 [July 6, Friday 2018]
+5positives: custom tap gesture on textEdit works, callbacks to save data to user defaults works, need to implement delete functionality and fix UI sliding up bug.
