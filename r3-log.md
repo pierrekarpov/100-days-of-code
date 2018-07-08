@@ -89,3 +89,9 @@ Done with week 2
 
 ### R2D20 [July 6, Friday 2018]
 5positives: custom tap gesture on textEdit works, callbacks to save data to user defaults works, need to implement delete functionality and fix UI sliding up bug.
+
+### R2D21 [July 7, Saturday 2018]
+5positives: try to fix UI bug where UI slides up but not back down
+
+### R2D22 [July 8, Sunday 2018]
+5positives: Setup Testflight. Try to fix UI bug where UI slides up but not back down
