@@ -101,3 +101,6 @@ Done with week 2
 
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 Done with logistic regression
+
+### R2D24 [July 10, Tuesday 2018]
+5positives: Working new UI, pushing build 5
