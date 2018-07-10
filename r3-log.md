@@ -95,3 +95,9 @@ Done with week 2
 
 ### R2D22 [July 8, Sunday 2018]
 5positives: Setup Testflight. Try to fix UI bug where UI slides up but not back down
+
+### R2D23 [July 9, Monday 2018]
+5positives: Finally got a working version of CollectionView, tranfering logic over
+
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+Done with logistic regression
