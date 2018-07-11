@@ -104,3 +104,6 @@ Done with logistic regression
 
 ### R2D24 [July 10, Tuesday 2018]
 5positives: Working new UI, pushing build 5
+
+### R2D25 [July 11, Wednesday 2018]
+5positives: Deleted useless files, cleaned up code, refactored
