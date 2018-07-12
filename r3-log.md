@@ -107,3 +107,6 @@ Done with logistic regression
 
 ### R2D25 [July 11, Wednesday 2018]
 5positives: Deleted useless files, cleaned up code, refactored
+
+### R2D26 [July 12, Thursday 2018]
+5positives: Connected app to Firebase, set up the db
