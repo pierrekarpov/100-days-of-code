@@ -110,3 +110,6 @@ Done with logistic regression
 
 ### R2D26 [July 12, Thursday 2018]
 5positives: Connected app to Firebase, set up the db
+
+### R2D27 [July 13, Friday 2018]
+5positives: Setup Cloud Firestore, read/write for firestore
