@@ -113,3 +113,9 @@ Done with logistic regression
 
 ### R2D27 [July 13, Friday 2018]
 5positives: Setup Cloud Firestore, read/write for firestore
+
+### R2D28 [July 14, Saturday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+### R2D29 [July 15, Sunrday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
