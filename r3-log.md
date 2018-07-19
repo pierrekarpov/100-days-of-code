@@ -122,3 +122,14 @@ Done with logistic regression
 
 ### R3D30 [July 16, Monday 2018]
 5positives: Firestore db structure, get number of days
+
+### R3D31 [July 17, Tuesday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+### R3D32 [July 18, Wednesday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+Neural network assignment part 1
+
+### R3D33 [July 19, Thursday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+Neural network assignment done
