@@ -133,3 +133,17 @@ Neural network assignment part 1
 ### R3D33 [July 19, Thursday 2018]
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 Neural network assignment done
+
+### R3D34 [July 20, Friday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+5positives: changed Firestore db structure
+
+### R3D35 [July 21, Saturday 2018]
+5positives: get data from Firestore
+
+### R3D36 [July 22, Sunday 2018]
+5positives: save data to Firestore
+
+### R3D37 [July 23, Monday 2018]
+5positives: implement sharedManager singleton to manage global variables
