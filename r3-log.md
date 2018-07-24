@@ -149,4 +149,4 @@ Neural network assignment done
 5positives: implement sharedManager singleton to manage global variables
 
 ### R3D38 [July 24, Tuesday 2018]
-5positives: mood selector UI 
+5positives: mood selector UI
