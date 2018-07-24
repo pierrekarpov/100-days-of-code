@@ -17,6 +17,29 @@ I will be working of a few personal projects, and try to use different framework
 * [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 * [AWS](https://www.aws.training/learningobject/curriculum?id=16357)
 
+## Technologies and concepts explored
+
+* #### Hosting
+  * GitHub
+  * Firebase
+  * Firestore
+* #### Languages and frameworks
+  * PHP
+  * Laravel
+  * RoR
+  * Flask
+  * Swift
+* #### Libraries
+  * Riot api
+  * NumPy
+  * Sklearn
+* #### Concepts
+  * LSTM
+  * Linear Regression
+  * Logistic Regression
+  * Multi-class Classifiers
+  * Neural Networks
+
 ## Contents
 
 * [Log - click here to see my progress](r2-log.md)
