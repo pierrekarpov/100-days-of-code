@@ -150,3 +150,6 @@ Neural network assignment done
 
 ### R3D38 [July 24, Tuesday 2018]
 5positives: mood selector UI
+
+### R3D39 [July 25, Wednesday 2018]
+5positives: mood selector UI, pushing vresion 1.1 build 1
