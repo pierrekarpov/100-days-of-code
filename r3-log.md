@@ -167,3 +167,6 @@ SVM
 
 ### R3D43 [July 29, Sunday 2018]
 5positives: UI improvments, better text input control part 2
+
+### R3D44 [July 30, Monday 2018]
+5positives: Firebase Auth via email
