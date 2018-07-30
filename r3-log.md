@@ -152,4 +152,18 @@ Neural network assignment done
 5positives: mood selector UI
 
 ### R3D39 [July 25, Wednesday 2018]
-5positives: mood selector UI, pushing vresion 1.1 build 1
+5positives: mood selector UI, pushing version 1.1 build 1
+
+### R3D40 [July 26, Thursday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+ML optimization
+
+### R3D41 [July 27, Friday 2018]
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+SVM
+
+### R3D42 [July 28, Saturday 2018]
+5positives: UI improvments, better text input control
+
+### R3D43 [July 29, Sunday 2018]
+5positives: UI improvments, better text input control part 2
