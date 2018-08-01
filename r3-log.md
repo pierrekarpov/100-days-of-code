@@ -170,3 +170,6 @@ SVM
 
 ### R3D44 [July 30, Monday 2018]
 5positives: Firebase Auth via email
+
+### R3D45 [July 31, Tuesday 2018]
+5positives: Own login in UI
