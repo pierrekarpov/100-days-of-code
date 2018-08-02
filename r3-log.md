@@ -176,3 +176,6 @@ SVM
 
 ### R3D46 [August 1, Wednesday 2018]
 5positives: Firebase auth + UI in seperate vc
+
+### R3D47 [August 2, Thursday 2018]
+5positives: Auth over multiple tab controllers
