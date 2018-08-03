@@ -179,3 +179,6 @@ SVM
 
 ### R3D47 [August 2, Thursday 2018]
 5positives: Auth over multiple tab controllers
+
+### R3D48 [August 3, Friday 2018]
+5positives: User table in db and linked with authentification
