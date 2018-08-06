@@ -188,3 +188,6 @@ SVM
 
 ### R3D50 [August 5, Sunday 2018]
 5positives: Research: which design pattern is best for Database access
+
+### R3D51 [August 6, Monday 2018]
+5positives: Refactoring part 1
