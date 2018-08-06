@@ -182,3 +182,9 @@ SVM
 
 ### R3D48 [August 3, Friday 2018]
 5positives: User table in db and linked with authentification
+
+### R3D49 [August 4, Saturday 2018]
+5positives: Log in via SMS
+
+### R3D50 [August 5, Sunday 2018]
+5positives: Research: which design pattern is best for Database access
