@@ -194,3 +194,6 @@ SVM
 
 ### R3D52 [August 7, Tuesday 2018]
 5positives: Refactoring data access done
+
+### R3D53 [August 8, Wednesday 2018]
+5positives: Logging in screen
