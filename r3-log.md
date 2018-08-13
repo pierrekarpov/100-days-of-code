@@ -197,3 +197,18 @@ SVM
 
 ### R3D53 [August 8, Wednesday 2018]
 5positives: Logging in screen
+
+### R3D54 [August 9, Thursday 2018]
+5positives: Pushed new version to TestFlight, version 1.2 build 1
+
+### R3D55 [August 10, Friday 2018]
+5positives: new version testing
+
+### R3D56 [August 11, Saturday 2018]
+5positives: scroll view avoiding keyboard
+
+### R3D57 [August 12, Sunday 2018]
+5positives: text field first responder management, WIP
+
+### R3D58 [August 13, Monday 2018]
+5positives: text field first responder management, WIP. Fix TestFlight to send invite to all testers
