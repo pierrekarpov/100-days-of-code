@@ -212,3 +212,6 @@ SVM
 
 ### R3D58 [August 13, Monday 2018]
 5positives: text field first responder management, WIP. Fix TestFlight to send invite to all testers
+
+### R3D59 [August 14, Tuesday 2018]
+5positives: (finaly) text field first responder working. Some edge cases to check, tag association might cause some weird errors
