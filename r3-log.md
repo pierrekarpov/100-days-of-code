@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on June 18, Monday, 2018.
 
 ## Log
 
-### R2D1 [June 18, Monday 2018]
+### R3D1 [June 18, Monday 2018]
 Docs for R3
 
 5positives: brainstorming, draft some aspect of the UI
@@ -215,3 +215,9 @@ SVM
 
 ### R3D59 [August 14, Tuesday 2018]
 5positives: (finaly) text field first responder working. Some edge cases to check, tag association might cause some weird errors
+
+### R3D60 [August 15, Wednesday 2018]
+5positives: Friend request architecture done
+
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+Anomaly Detection and Recommender Systems
