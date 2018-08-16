@@ -221,3 +221,6 @@ SVM
 
 [ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 Anomaly Detection and Recommender Systems
+
+### R3D61 [August 16, Thursday 2018]
+5positives: Share username via text/email/messenger/etc.
