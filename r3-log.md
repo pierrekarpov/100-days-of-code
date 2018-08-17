@@ -224,3 +224,6 @@ Anomaly Detection and Recommender Systems
 
 ### R3D61 [August 16, Thursday 2018]
 5positives: Share username via text/email/messenger/etc.
+
+### R3D62 [August 17, Friday 2018]
+5positives: Share username based on auth data
