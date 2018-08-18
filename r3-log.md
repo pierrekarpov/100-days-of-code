@@ -227,3 +227,6 @@ Anomaly Detection and Recommender Systems
 
 ### R3D62 [August 17, Friday 2018]
 5positives: Share username based on auth data
+
+### R3D63 [August 18, Saturday 2018]
+5positives: Share correct username to access positive data, automatically add to friend list
