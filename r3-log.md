@@ -230,3 +230,21 @@ Anomaly Detection and Recommender Systems
 
 ### R3D63 [August 18, Saturday 2018]
 5positives: Share correct username to access positive data, automatically add to friend list
+
+### R3D64 [August 19, Sunday 2018]
+5positives: Add third tab for friend list
+
+### R3D65 [August 20, Monday 2018]
+5positives: Prettier UI
+
+[ML Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+Finished!
+
+### R3D66 [August 21, Tuesday 2018]
+5positives: Access and format friends' data. Display in friends tab.
+
+### R3D67 [August 22, Wednesday 2018]
+5positives: add friends, pushing version 1.3 build 1
+
+### R3D68 [August 23, Thursday 2018]
+5positives: hotfix bugs for version 1.3.1
