@@ -248,3 +248,14 @@ Finished!
 
 ### R3D68 [August 23, Thursday 2018]
 5positives: hotfix bugs for version 1.3.1
+
+### R3D69 [August 24, Friday 2018]
+5positives: PWA tutorial part 1
+
+### R3D70 [August 25, Saturday 2018]
+[NN and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+Done with the material
+
+### R3D71 [August 26, Sunday 2018]
+[NN:: Hyperparameter tuning](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+Started course
