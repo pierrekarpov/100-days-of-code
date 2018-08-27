@@ -250,7 +250,7 @@ Finished!
 5positives: hotfix bugs for version 1.3.1
 
 ### R3D69 [August 24, Friday 2018]
-5positives: PWA tutorial part 1
+5positives: [PWA tutorial](https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed) part 1
 
 ### R3D70 [August 25, Saturday 2018]
 [NN and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
@@ -259,3 +259,8 @@ Done with the material
 ### R3D71 [August 26, Sunday 2018]
 [NN:: Hyperparameter tuning](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 Started course
+
+Data science project: designed the pipeline
+
+### R3D72 [August 27, Monday 2018]
+5positives: [PWA tutorial](https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed) Done
