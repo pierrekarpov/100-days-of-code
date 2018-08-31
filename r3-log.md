@@ -264,3 +264,16 @@ Data science project: designed the pipeline
 
 ### R3D72 [August 27, Monday 2018]
 5positives: [PWA tutorial](https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed) Done
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today) get image from API
+
+### R3D73 [August 28, Tuesday 2018]
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today) image selection tool
+
+### R3D74 [August 29, Wednesday 2018]
+5positives: tested different frontend frameworks: Vue, Angular, React
+
+### R3D75 [August 30, Thursday 2018]
+[NN and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) Finished assignments and got certification
+
+### R3D76 [August 31, Friday 2018]
+5positives: scaffold for Vue.js project, learnt about data binding.

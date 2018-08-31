@@ -8,6 +8,7 @@ I will be working of a few personal projects, and try to use different framework
 * [RESTful Data Science](https://github.com/pierrekarpov/RestfulDataScience)
 * [Lore Of Legends](https://github.com/pierrekarpov/LoreOfLegends)
 * [5positives](http://5positives.com/)
+* [Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today)
 
 ## Tutorial list
 
@@ -19,10 +20,11 @@ I will be working of a few personal projects, and try to use different framework
 
 ## Technologies and concepts explored
 
-* #### Hosting
+* #### Hosting and online services
   * GitHub
   * Firebase
   * Firestore
+  * GCP
 * #### Languages and frameworks
   * PHP
   * Laravel
@@ -34,6 +36,7 @@ I will be working of a few personal projects, and try to use different framework
   * NumPy
   * Sklearn
 * #### Concepts
+  * PWA
   * LSTM
   * Linear Regression
   * Logistic Regression
