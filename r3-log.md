@@ -277,3 +277,12 @@ Data science project: designed the pipeline
 
 ### R3D76 [August 31, Friday 2018]
 5positives: scaffold for Vue.js project, learnt about data binding.
+
+### R3D76 [August 31, Friday 2018]
+5positives: scaffold for Vue.js project, learnt about data binding.
+
+### R3D77 [September 1, Saturday 2018]
+5positives: component to see a list of positives
+
+### R3D78 [September 2, Sunday 2018]
+[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome) Finished assignments and got certification
