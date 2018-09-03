@@ -286,3 +286,6 @@ Data science project: designed the pipeline
 
 ### R3D78 [September 2, Sunday 2018]
 [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome) Finished assignments and got certification
+
+### R3D79 [September 3, Monday 2018]
+5positives: test deployment for [firebase hosting](https://positives-d0b93.firebaseapp.com/)
