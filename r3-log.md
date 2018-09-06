@@ -289,3 +289,12 @@ Data science project: designed the pipeline
 
 ### R3D79 [September 3, Monday 2018]
 5positives: test deployment for [firebase hosting](https://positives-d0b93.firebaseapp.com/)
+
+### R3D80 [September 4, Tuesday 2018]
+5positives: use of flex for css [firebase webapp](https://positives-d0b93.firebaseapp.com/)
+
+### R3D81 [September 5, Wednesday 2018]
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): build NN from scratch, compared it to sklearn
+
+### R3D82 [September 6, Thursday 2018]
+5positives: link Vue app with data from Firestore [firebase webapp](https://positives-d0b93.firebaseapp.com/)
