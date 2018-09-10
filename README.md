@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-Here is a log of my progress.
+Here is a [log](r3-log.md) of my progress.
 I will be working of a few personal projects, and try to use different framework for each.
 
 ## Project list
