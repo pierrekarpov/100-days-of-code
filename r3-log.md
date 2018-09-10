@@ -298,3 +298,15 @@ Data science project: designed the pipeline
 
 ### R3D82 [September 6, Thursday 2018]
 5positives: link Vue app with data from Firestore [firebase webapp](https://positives-d0b93.firebaseapp.com/)
+
+### R3D83 [September 7, Friday 2018]
+5positives: Mood icons [firebase webapp](https://positives-d0b93.firebaseapp.com/)
+
+### R3D84 [September 8, Saturday 2018]
+5positives: Dynamic layout desktop vs mobile [firebase webapp](https://positives-d0b93.firebaseapp.com/)
+
+### R3D85 [September 9, Sunday 2018]
+5positives: Display latest positives only, with range depending on desktop or mobile [firebase webapp](https://positives-d0b93.firebaseapp.com/)
+
+### R3D86 [September 10, Monday 2018]
+5positives: Prev/next buttons for positives [firebase webapp](https://positives-d0b93.firebaseapp.com/)
