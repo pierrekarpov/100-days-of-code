@@ -291,22 +291,28 @@ Data science project: designed the pipeline
 5positives: test deployment for [firebase hosting](https://positives-d0b93.firebaseapp.com/)
 
 ### R3D80 [September 4, Tuesday 2018]
-5positives: use of flex for css [firebase webapp](https://positives-d0b93.firebaseapp.com/)
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): use of flex for css
 
 ### R3D81 [September 5, Wednesday 2018]
 [Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): build NN from scratch, compared it to sklearn
 
 ### R3D82 [September 6, Thursday 2018]
-5positives: link Vue app with data from Firestore [firebase webapp](https://positives-d0b93.firebaseapp.com/)
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): link Vue app with data from Firestore
 
 ### R3D83 [September 7, Friday 2018]
-5positives: Mood icons [firebase webapp](https://positives-d0b93.firebaseapp.com/)
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): Mood icons
 
 ### R3D84 [September 8, Saturday 2018]
-5positives: Dynamic layout desktop vs mobile [firebase webapp](https://positives-d0b93.firebaseapp.com/)
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): Dynamic layout desktop vs mobile
 
 ### R3D85 [September 9, Sunday 2018]
-5positives: Display latest positives only, with range depending on desktop or mobile [firebase webapp](https://positives-d0b93.firebaseapp.com/)
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): Display latest positives only, with range depending on desktop or mobile
 
 ### R3D86 [September 10, Monday 2018]
-5positives: Prev/next buttons for positives [firebase webapp](https://positives-d0b93.firebaseapp.com/)
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): Prev/next buttons for positives
+
+### R3D87 [September 11, Tuesday 2018]
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): Refactor + segment in different components
+
+### R3D88 [September 12, Wednesday 2018]
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): handling edge cases for prev and next
