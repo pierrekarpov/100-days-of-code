@@ -316,3 +316,5 @@ Data science project: designed the pipeline
 
 ### R3D88 [September 12, Wednesday 2018]
 5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): handling edge cases for prev and next
+
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): crop selections out of original pictures
