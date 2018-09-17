@@ -31,6 +31,7 @@ I will be working of a few personal projects, and try to use different framework
   * RoR
   * Flask
   * Swift
+  * Vue
 * #### Libraries
   * Riot api
   * NumPy

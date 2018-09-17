@@ -318,3 +318,15 @@ Data science project: designed the pipeline
 5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): handling edge cases for prev and next
 
 [Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): crop selections out of original pictures
+
+### R3D89 [September 13, Thursday 2018]
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): added auth
+
+### R3D90 [September 14, Friday 2018]
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): add/remove positive
+
+### R3D91 [September 15, Saturday 2018]
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): empty templates for days without positives
+
+### R3D92 [September 16, Sunday 2018]
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): deployed!
