@@ -330,3 +330,6 @@ Data science project: designed the pipeline
 
 ### R3D92 [September 16, Sunday 2018]
 5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): deployed!
+
+### R3D93 [September 17, Monday 2018]
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): trained NN for car detection
