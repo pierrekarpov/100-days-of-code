@@ -333,3 +333,15 @@ Data science project: designed the pipeline
 
 ### R3D93 [September 17, Monday 2018]
 [Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): trained NN for car detection
+
+### R3D94 [September 18, Tuesday 2018]
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): sliding doors
+
+### R3D95 [September 19, Wednesday 2018]
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): counting cars
+
+### R3D96 [September 20, Thursday 2018]
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): get car count for a specific day, call API if needed
+
+### R3D97 [September 21, Friday 2018]
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): store car counts per day for time series
