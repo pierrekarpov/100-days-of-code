@@ -345,3 +345,9 @@ Data science project: designed the pipeline
 
 ### R3D97 [September 21, Friday 2018]
 [Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): store car counts per day for time series
+
+### R3D98 [September 22, Saturday 2018]
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): get data for continuous period of time
+
+### R3D99 [September 23, Sunday 2018]
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): plot data to extrapolate num of cars
