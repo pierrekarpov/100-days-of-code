@@ -23,6 +23,6 @@ May 9th, 2018
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](r3-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
