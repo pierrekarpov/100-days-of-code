@@ -349,5 +349,14 @@ Data science project: designed the pipeline
 ### R3D98 [September 22, Saturday 2018]
 [Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): get data for continuous period of time
 
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): added manifest for PWA
+
 ### R3D99 [September 23, Sunday 2018]
 [Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): plot data to extrapolate num of cars
+
+5positives [firebase webapp](https://positives-d0b93.firebaseapp.com/): figuring out how to do PWA on iOS -.-"
+
+### R3D100 [September 24, Monday 2018]
+[Can I Snooze](https://github.com/pierrekarpov/can-i-hit-snooze-today): ARIMA to predict time series
+
+YAY DONE!!

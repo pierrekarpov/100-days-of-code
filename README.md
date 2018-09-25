@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
+# I've completed the #100DaysOfCode Challenge
 
 Here is a [log](r3-log.md) of my progress.
 I will be working of a few personal projects, and try to use different framework for each.
@@ -36,6 +36,7 @@ I will be working of a few personal projects, and try to use different framework
   * Riot api
   * NumPy
   * Sklearn
+  * Pandas
 * #### Concepts
   * PWA
   * LSTM
@@ -43,6 +44,7 @@ I will be working of a few personal projects, and try to use different framework
   * Logistic Regression
   * Multi-class Classifiers
   * Neural Networks
+  * ARIMA
 
 ## Contents
 
